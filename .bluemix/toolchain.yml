@@ -6,7 +6,7 @@ required:
  - repo
 
 toolchain:
-  name: ddcao-blank-curl-06oct-1146
+  name: ddcao-blank-curl-06oct-1208
 
 # Github repos
 repo:
